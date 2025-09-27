@@ -1,4 +1,5 @@
-https://img.shields.io/badge/Python-Green?style=plastic&logo=python&logoColor=green&logoSize=auto&label=PY&labelColor=blue
+
+### Made By MrTarik2112  (https://github.com/MrTarik2112)
 
 
 
