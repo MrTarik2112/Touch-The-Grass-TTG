@@ -1,7 +1,15 @@
+---
 
-### Made By MrTarik2112  (https://github.com/MrTarik2112)
 
 
+### Made By "MrTarik2112"  (https://github.com/MrTarik2112)
+#### Quantum Wave Studios is owned by "MrTarik2112"
+
+
+
+
+
+---
 
 # Touch The Grass (TTG)
 
